@@ -1,4 +1,5 @@
 # Keiser M Series Simulator
+⛔️ [DEPRECATED] This repository is no longer maintained.
 ## Project
 This simulator broadcasts Bluetooth 4.0 signals identical to those broadcasted by Keiser M Series machines for use in development and testing.
 
